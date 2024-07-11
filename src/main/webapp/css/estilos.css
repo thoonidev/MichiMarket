@@ -1,0 +1,67 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cart {
+	display: flex;
+	align-items: center;
+}
+
+.item-count {
+	margin-left: 5px;
+}
+
+.cart p {
+	margin-bottom: 0;
+}
+
+.carousel-item img {
+	max-height: 500px;
+	margin: 0 auto;
+}
+
+.footer-section {
+	background-color: #343a40;
+	color: #ffffff;
+	padding: 50px 0;
+}
+
+.footer-section h4 {
+	color: #ffffff;
+}
+
+.footer-section ul {
+	list-style: none;
+	padding: 0;
+}
+
+.footer-section ul li {
+	margin-bottom: 10px;
+}
+
+.footer-section ul li i {
+	margin-right: 10px;
+}
+
+.footer-bottom {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.footer-bottom h4 {
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.footer-bottom a {
+	color: #ffc107;
+	text-decoration: none;
+}
+
+.footer-bottom a:hover {
+	color: #ffffff;
+}
